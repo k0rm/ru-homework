@@ -14,4 +14,6 @@ while num_int > 0:
         highest_value = blonk
     if num_int < 0:
         break
-print("The maximum is", max_int)
+print("The maximum is", max_int
+
+        #hæ )
